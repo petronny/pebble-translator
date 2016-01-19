@@ -6,14 +6,14 @@
     "capabilities": [
         ""
     ],
-    "companyName": "kamoussa@ucsd.edu",
-    "longName": "WikiHow for Pebble",
+    "companyName": "i@jingbei.li",
+    "longName": "English-German Speech Translator for Pebble",
     "projectType": "native",
     "resources": {
         "media": [
             {
-                "file": "images/toucan.png",
-                "name": "toucan",
+                "file": "table.png",
+                "name": "table",
                 "targetPlatforms": [
                     "basalt",
                     "chalk"
